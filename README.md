@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deercall
 - 🤭 A Chinese junior high school student
-- 😇 The programming languages ​​I am good at include ‘Python’ ‘Java’ ‘Kotlin’
+- 😇 The programming languages ​​I am good at include `Python` `Java` `Kotlin`
 
 ## 💻 Working environment
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows10)
